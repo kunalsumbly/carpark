@@ -21,7 +21,11 @@ public class CarParkMainUI extends UI{
 	@Override
 	protected void init(VaadinRequest request) {
 		VerticalLayout rootLayout = new VerticalLayout();
-		rootLayout.addComponent(new Label("This is the test carpark"));
+		rootLayout.addComponent(new Label("This is the new change") );
+		
+		
+		
+		
 		
 		setContent(rootLayout);
 		

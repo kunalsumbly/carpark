@@ -32,7 +32,7 @@
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.au.sofico</groupId>
+			<groupId>com.sofico.au</groupId>
 			<artifactId>carpark-ui</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>

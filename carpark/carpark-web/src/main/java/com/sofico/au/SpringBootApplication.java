@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 @EnableAutoConfiguration // Spring Boot auto-configuration attempts to
 							// automatically configure your Spring application
 							// based on the jar dependencies that you have added
-@ComponentScan({ "com.au.sofico" }) // seems same as <context:component-scan>
+@ComponentScan({ "com.sofico.au" }) // seems same as <context:component-scan>
 									// which not only enables the annotations
 									// but also registers the bean in the
 									// context or IOC container
